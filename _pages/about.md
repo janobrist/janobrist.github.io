@@ -2,7 +2,7 @@
 layout: about
 title: Jan Obrist
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -12,8 +12,14 @@ profile:
 
 
 news: false # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
 I am a Master student in Robotics, System and Control at ETH Zurich. I am currently working on my Master thesis at the Computation Robotics Lab under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html) on deformable object manipulation in robotics.
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
