@@ -40,6 +40,11 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Publications -->
+    <div class="publications">
+    {% bibliography %}
+    </div>
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
