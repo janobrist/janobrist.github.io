@@ -16,4 +16,9 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Master student in Robotics, System and Control at ETH Zurich. I am currently working on my Master thesis at the Computation Robotics Lab under the supervision of [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html) on deformable object manipulation in robotics.
+I am a Master's student in Robotics, Systems, and Control at ETH Zurich. Currently, I am conducting my Master’s thesis
+research at the Computational Robotics Lab, supervised
+by [Prof. Stelian Coros](https://crl.ethz.ch/people/coros/index.html). My project aims on advancing robotic
+manipulation of deformable objects through the development of a comprehensive dataset that captures how various soft objects
+respond to robotic interaction. If you have any questions or would
+like to learn more about my research, please feel free to reach out via email.
